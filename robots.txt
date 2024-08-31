@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://precosti.github.io/sitemap.html.gz
+Sitemap: https://precosti.github.io/app/sitemap.html.gz
+Sitemap: https://precosti.github.io/assets/sitemap.html.gz
+Sitemap: https://precosti.github.io/css/sitemap.html.gz
+Sitemap: https://precosti.github.io/includes/sitemap.html.gz
+Sitemap: https://precosti.github.io/item/sitemap.html.gz
+Sitemap: https://precosti.github.io/src/sitemap.html.gz
